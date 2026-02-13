@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.div1{
+    display: flex;
+}
+.h1{
+    padding-left: 40px;
+    padding-top: 15px;
+    color: forestgreen;
+}
+.p1{
+    padding-left: 1200px;
+    padding-top: 20px;
+}
+.p2{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.p3{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.p4{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.b1{
+    margin-left: 30px;
+    width: 100px;
+    height: 35px;
+    background-color:forestgreen;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.p5{
+    font-size: 35px;
+    text-align: center;
+    padding-top: 130px;
+}
+.div2{
+    margin-top: 30px;
+    background-color: forestgreen;
+    width: 150px;
+    height: 35px;
+    padding-top: 10px;
+    padding-left: 20px;
+    color: white;
+    margin-left: 900px;
+    border-radius: 5px;
+}
+.img1{
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    margin-left: 40px;
+    margin-top: 60px;
+}
+.img2{
+    width: 600px;
+    height: 320px;
+    object-fit: cover;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+.p6{
+    font-size: 15px;
+    margin-left: 385px;
+}
+.p7{
+    font-size: 15px;
+    margin-left: 50px;
+    padding-top: 50px;
+}
+.p8{
+    margin-left: 250px;
+}
+.p9{
+    margin-left: 250px;
+    padding-top: 20px;
+}
+.p10{
+    margin-left: 250px;
+    padding-top: 20px;
+}
+.p11{
+    margin-left: 250px;
+    padding-top: 20px;
+}

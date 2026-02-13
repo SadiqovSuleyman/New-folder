@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img7{
+    height: 50px;
+    padding-left: 370px;
+    padding-top: 15px;
+}
+.img1{
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.img2{
+    padding-left: 750px;
+}
+.div1{
+    background-color: whitesmoke;
+    height: 70px;
+    position: sticky;
+    top: 0;
+}
+.div2{
+    height: 80px;
+    display: flex;
+}
+.p1{
+    font-size: 20px;
+    padding-left: 800px;
+    padding-top: 20px;
+}
+.p2{
+    font-size: 20px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.p3{
+    font-size: 20px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.img8{
+    width: 260px;
+    height: 350px;
+    object-fit: cover;
+    margin-left: 570px;
+}
+.div3{
+    background-color:rgba(0, 0, 7, 0.781);
+    height: 650px;
+}
+.p4{
+    color: white;
+    margin-left: 900px;
+    font-size: 45px;
+    padding-top: 50px;
+}
+.p5{
+    color: white;
+    margin-left: 900px;
+    padding-top: 40px;
+}
+.div4{
+    color: white;
+    margin-left: 900px;
+    border: 2px solid white;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    padding-top: 5px;
+    margin-top: 20px;
+}
+.p6{
+    color: white;
+    margin-left: 900px;
+    padding-top: 40px;
+}
+.a1{
+    color: white;
+}
+.div5{
+    background-color: orangered;
+    height: 220px;
+    z-index: 0;
+}
+.img9{
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+    margin-left: 1000px;
+    padding-bottom: 200px;
+    z-index: 10;
+}
+.img10{
+    width: 280px;
+    height: 380px;
+    object-fit: cover;
+    margin-left: 460px;
+    margin-top: 60px;
+}
+.img11{
+    width: 350px;
+    object-fit: cover;
+    margin-left: 780px;
+    margin-top: 50px;
+}
+.div6{
+    background-color: rgba(0, 0, 7, 0.781);
+    height: 380px;
+}
+.img12{
+    color: white;
+}
+.p7{
+    color: white;
+    margin-left: 1320px;
+}
+.hr1{
+    width: 150px;
+    margin-left: 1300px;
+    margin-top: 10px;
+}
+.img13{
+    color: white;
+}
+.img14{
+    color: white;
+}
+.img15{
+    color: white;
+}
+.div7{
+    background-color: grey;
+    height: 170px;
+}
+.p8{
+    text-align: center;
+    padding-top: 40px;
+    color: white;
+}
+.p9{
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+}
+.a2{
+    color: white;
+}

@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.div1{
+    height: 40px;
+    background-color: whitesmoke;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    padding-top: 10px;
+}
+.p6{
+    background-color: darkblue;
+    color: white;
+    height: 20px;
+    width: 120px;
+    text-align: center;
+}
+.p7{
+    font-size: 35px;
+    text-align: center;
+    padding-top: 100px;
+}
+.p8{
+    text-align: center;
+    padding-top: 50px;
+}
+.div2{
+    margin-left: 860px;
+    background-color: darkblue;
+    color: white;
+    width: 180px;
+    text-align: center;
+    margin-top: 50px;
+    height: 30px;
+    padding-top: 5px;
+}
+.p9{
+    font-size: 40px;
+    color: gray;
+    text-align: center;
+    padding-top: 100px;
+}
+.p10{
+    text-align: center;
+}
+img{
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+    margin-top: 100px;
+}
+.p11{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 30px;
+}
+.p12{
+    padding-top: 30px;
+    text-align: center;
+}
+.div6{
+    background-color: darkblue;
+    color: white;
+    width: 230px;
+    text-align: center;
+    height: 30px;
+    padding-top: 5px;
+    margin-top: 30px;
+    margin-left: 865px;
+}
+.div7{
+    background-color:lightgray;
+    height: 400px;
+}
+.h1{
+    text-align: center;
+    padding-top: 70px;
+}
+.p13{
+    margin-left: 1200px;
+    padding-top: 30px;
+}
+.ul1{
+    margin-left: 1220px;
+    padding-top: 20px;
+}
+.p15{
+    margin-left: 1200px;
+    padding-top: 30px;
+}
+.p16{
+    margin-left: 400px;
+}
+.p17{
+    margin-left: 400px;
+    padding-top: 20px;
+}
+.p18{
+    margin-left: 400px;
+    padding-top: 20px;
+}
+.h2{
+    text-align: center;
+    padding-top: 50px;
+}
+.p19{
+    text-align: center;
+    padding-top: 10px;
+}
+.div8{
+    background-color: darkblue;
+    color: white;
+    width: 220px;
+    height: 25px;
+    text-align: center;
+    margin-left: 845px;
+    margin-top: 50px;
+    padding-top: 5px;
+}
+.main-div2{
+    display: flex;
+    gap: 20px;
+}
+.p19{
+    padding-left: 25px;
+    color: white;
+}
+.p20{
+    margin-left: 250px;
+}
+.p21{
+    margin-right: 250px;
+}
+.div9{
+    background-color: darkblue;
+    width: 200px;
+    margin-left: 200px;
+}
+.ul2 li{
+    padding-left: 20px;
+    color: white;
+}
+.div10{
+    background-color: darkblue;
+    width: 10px;
+}
