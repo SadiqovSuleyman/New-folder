@@ -1,0 +1,146 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:'Poppins', sans-serif;
+}
+.navbar{
+  max-width:1200px;
+  margin:auto;
+  padding:25px 20px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+.logo{
+  font-weight:700;
+  font-size:22px;
+}
+.navbar nav a{
+  margin-left:25px;
+  text-decoration:none;
+  color:#333;
+  font-weight:500;
+}
+.btn-login{
+  padding:8px 18px;
+  border:1px solid #333;
+  border-radius:8px;
+}
+.s1{
+  max-width:1200px;
+  margin:auto;
+  padding:60px 20px;
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  align-items:center;
+}
+.tag{
+  color:#ff7a00;
+  font-weight:600;
+  font-size:13px;
+}
+.s1-text h1{
+  font-size:52px;
+  line-height:1.2;
+  margin:20px 0;
+}
+.s1-text p{
+  color:#666;
+  max-width:480px;
+}
+.s1-buttons{
+  margin-top:30px;
+  display:flex;
+  align-items:center;
+  gap:25px;
+}
+.btn-main{
+  background:#ff7a00;
+  border:none;
+  padding:14px 26px;
+  color:#fff;
+  border-radius:10px;
+  font-weight:600;
+  cursor:pointer;
+}
+.play{
+  display:flex;
+  align-items:center;
+  gap:10px;
+}
+.play-btn{
+  width:45px;
+  height:45px;
+  background:#ff7a00;
+  color:white;
+  border-radius:50%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+.hero-img img{
+  width:100%;
+}
+.services{
+  text-align:center;
+  padding:80px 20px;
+}
+.services h2{
+  margin:10px 0 40px;
+  font-size:36px;
+}
+.service-box{
+  max-width:1200px;
+  margin:auto;
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:25px;
+}
+.card{
+  padding:35px 25px;
+  border-radius:20px;
+  background:#f9f9f9;
+  transition:.3s;
+}
+.card.active{
+  background:white;
+  box-shadow:0 15px 40px rgba(0,0,0,0.08);
+}
+.destinations{
+  text-align:center;
+  padding:80px 20px;
+}
+.destinations h2{
+  font-size:36px;
+  margin-bottom:40px;
+}
+.dest-grid{
+  max-width:1200px;
+  margin:auto;
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:30px;
+}
+.dest-card{
+  background:white;
+  border-radius:18px;
+  overflow:hidden;
+  box-shadow:0 10px 25px rgba(0,0,0,0.06);
+}
+.dest-card img{
+  width:100%;
+  height:220px;
+  object-fit:cover;
+}
+.dest-info{
+  display:flex;
+  justify-content:space-between;
+  padding:15px 15px 5px;
+  font-weight:600;
+}
+.dest-card p{
+  padding:0 15px 15px;
+  color:#777;
+  font-size:14px;
+}

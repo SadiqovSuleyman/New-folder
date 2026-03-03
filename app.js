@@ -1,4 +1,4 @@
-console.log('My name is Qasim');
-console.warn("Adin duzgun deyil");
-console.error("Sehife acilmir");
-console.clear();
+let a = 11;
+console.log(a**5);
+console.log(a / 3 );
+console.log(a % 3)
